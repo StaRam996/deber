@@ -1,0 +1,30 @@
+body {
+    background-image: url('imagenes/fachada-itq-web.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    font-family: Arial, sans-serif; 
+    margin: 0; /
+    padding: 0;
+    background-color: #d68b8b; 
+}
+
+h2 {
+    text-align: center; 
+    margin-top: 50px; 
+    color: #333; 
+    
+    }
+a {
+    color: #333; 
+    text-decoration: none; 
+    display: block; 
+    width: 200px; 
+    margin: 20px auto; 
+    padding: 10px; 
+    background-color: #e3bebe;
+    border: 1px solid #141212; 
+    border-radius: 7px; 
+    text-align: center; 
+    transition: background-color 0.3s ease; 
+}
+
